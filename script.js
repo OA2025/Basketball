@@ -1,10 +1,10 @@
 const Questions = [
     {
-        q: "Fill in the blank: Snow leopards live _____.",
-        a: [{text: "in the desert.", isCorrect: false},
-            {text: "in the jungle.", isCorrect: false},
-            {text: "in the mountains.", isCorrect: true},
-            {text: "in the city.", isCorrect: false},
+        q: "Fill in the blank: How many NBA teams are there _____.",
+        a: [{text: "100.", isCorrect: false},
+            {text: "I have 0 clue.", isCorrect: false},
+            {text: "30.", isCorrect: true},
+            {text: "31.", isCorrect: false},
            ]
     },
     {
